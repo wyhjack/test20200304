@@ -8,6 +8,6 @@ public class UserAction {
   public void  sayHi()
   {
    System.out.println("最终的444");
-   System.out.println("小王模拟冲突：222");
+   System.out.println("最终的结果：666");
    }
 }
